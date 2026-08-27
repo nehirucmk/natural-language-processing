@@ -1,0 +1,33 @@
+# Python önbellek ve derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook kontrol noktaları
+.ipynb_checkpoints/
+
+# Ortam değişkenleri ve gizli anahtarlar (API key vs.)
+.env
+.env.*
+
+# VS Code özel ayarları
+.vscode/
+*.code-workspace
+
+# NLP / Büyük veri seti dosyaları (Gereksiz repo şişmesini önler)
+*.csv
+*.tsv
+*.json
+*.parquet
+*.zip
+*.tar.gz
+
+# İleride venv kurarsanız otomatik yoksayması için
+.venv/
+venv/
+env/
+ENV/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
