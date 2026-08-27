@@ -1,0 +1,1 @@
+BTK Akademi Uygulamalı Doğal Dil İşleme ve Metin Analitiği kursunu izlerken yaptığım çalışmalar. eğitmen tarafından videolarda yazılan, eş zamanlı olarak kendim yazarak denediğim kod dosyaları. tüm işlemler python sanal ortamda gerçekleştirilmiştir.
